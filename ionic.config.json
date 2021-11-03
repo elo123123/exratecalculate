@@ -1,0 +1,7 @@
+{
+  "name": "Exratecalculate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

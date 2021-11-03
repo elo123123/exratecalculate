@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Exratecalculate",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
